@@ -1,4 +1,6 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G00seByt3&theme=dracula)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G00seByt3&theme=dracula">
+</div>
 
 <div align="center">
   <h1>Languages and Tools:</h1>
